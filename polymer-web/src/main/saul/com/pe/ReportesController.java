@@ -12,10 +12,6 @@
 *                                                                                reporteEstadoActual.xhtml asimismo con su respectiva validacion
 * ---------------------------------------------------------------------------------------------------------------
 */
-
-
-
-
 package pe.com.gmd.sisrec.web.controller;
 
 import static java.text.MessageFormat.format;
