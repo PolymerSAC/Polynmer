@@ -8,8 +8,6 @@
  * ---------------------------------------------------------------------------------------------------------------
 * Modificaciones
 * Motivo                      Fecha             Nombre                         Descripción
-* REQ001                    13/07/2016         Julca Amaro Richard Abraham      Se agregaron campos de fecha inicio y fecha final que corresponden a los datos seleccionados en el calendar de la vista 
-*                                                                                reporteEstadoActual.xhtml asimismo con su respectiva validacion
 * ---------------------------------------------------------------------------------------------------------------
 */
 package pe.com.gmd.sisrec.web.controller;
